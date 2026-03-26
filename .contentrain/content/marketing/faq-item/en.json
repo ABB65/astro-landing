@@ -1,4 +1,8 @@
 {
+  "a1b2c3d4e5f6": {
+    "answer": "This is a sample answer to the FAQ question. You can edit this content as needed.",
+    "question": "Sample FAQ Question"
+  },
   "extend-to-editorial": {
     "answer": "Yes. The shared content contracts are designed so editorial models can be added without restructuring the whole site.",
     "question": "Can this evolve into docs or a blog?"
